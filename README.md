@@ -1,7 +1,7 @@
 
 # Evaluación 2 - Big Data
 
-Este proyecto corresponde a la **Evaluación 2** de la asignatura **Big Data**, basado en un caso de análisis de avistamientos de OVNIs. El trabajo fue desarrollado por Bastían González, siguiendo las instrucciones del curso Google Skill Boost.
+Este proyecto corresponde a la **Evaluación 2** de la asignatura **Big Data**, basado en un caso de análisis de avistamientos de OVNIs. El trabajo fue desarrollado por Bastían González, Oscar Silva y Javier Fuentes, siguiendo las instrucciones del curso Google Skill Boost.
 
 ## Introducción
 
